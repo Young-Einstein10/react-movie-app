@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Deployment
+## Deployment
 
-Project is Deployed [here]()
+Project is Deployed [here](https://react-movie-app-three.now.sh/)
 
 ## Available Scripts
 
