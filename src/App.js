@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import './App.css';
-import Navbar from './Navbar';
-import Home from './Pages/Home';
-import Trending from './Pages/Trending';
-import Discover from './Pages/Discover';
-import Movie from './Pages/Movie';
+import "./App.css";
+import Navbar from "./Navbar";
+import Home from "./Pages/Home";
+import Trending from "./Pages/Trending";
+import Discover from "./Pages/Discover";
+import Movie from "./Pages/Movie";
 
 function App() {
   return (
